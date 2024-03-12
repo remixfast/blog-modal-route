@@ -1,4 +1,6 @@
-# Welcome to Remix!
+# Welcome to Remix Modal Route!
+
+This repo contains code for blog post: [Remix Modal Route](https://www.remixfast.com/blog/remix-modal-route)
 
 - [Remix Docs](https://remix.run/docs)
 
